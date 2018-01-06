@@ -11,6 +11,7 @@
             'ngAria',
             'ngCacheBuster',
             'ngFileUpload',
+            'ngSanitize',
             'ui.bootstrap',
             'ui.bootstrap.datetimepicker',
             'ui.router',
